@@ -34,3 +34,5 @@ yarn-error.log*
 .vercel
 
 public/feed.xml
+pages/posts/markdown.md
+pages/posts/pages.md
